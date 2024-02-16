@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=F94C10&center=true&vCenter=true&random=true&width=435&lines=Hi+there;Welecome+to+my+profile)](https://git.io/typing-svg)
 <!--
 **sina-adibi/sina-adibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
